@@ -3,15 +3,15 @@ layout: default
 title: Categorias de rendimentos
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Ao preencher a declaração Modelo 3 existem vários anexos que podem e devem ser anexados à declaração. E é mesmo sobre esses anexos que lhe vou falar hoje.
 
-##Categorias de rendimentos
+## Categorias de rendimentos
 
 Existem seis categorias de rendimentos que podem ser anexadas à sua declaração de IRS, consoante o tipo de rendimentos que auferiu.
 
-##Categoria A – Rendimentos do trabalho dependente
+## Categoria A – Rendimentos do trabalho dependente
 
 Nesta categoria devem ser declarados os rendimentos de trabalho por conta de outrem. Nomeadamente:
 
@@ -29,7 +29,7 @@ Rendimentos não tributados:
 * Indemnização por incapacidade temporária;
 * Passes sociais.
 
-##Categoria B – Rendimentos empresariais e profissionais
+## Categoria B – Rendimentos empresariais e profissionais
 
 Nesta categoria devem ser declarados os rendimentos provenientes de trabalho empresarial e profissional. Nomeadamente:
 
@@ -43,7 +43,7 @@ Além disso, deve ter em atenção que os atos isolados também são inseridos n
 
 São considerados atos isolados qualquer atividade de prestação de serviços que não represente mais de 50% dos rendimentos totais do sujeito passivo.
 
-##Categoria E – Rendimentos de Capitais
+## Categoria E – Rendimentos de Capitais
 
 Consideram-se rendimentos de capitais todas as vantagens económicas, independentemente da sua natureza. Nomeadamente no que diz respeito a juros obtidos através instituições financeiras e empresas.
 
@@ -54,19 +54,19 @@ Os rendimentos desta categoria ficam sujeitos a tributação nas seguintes situa
 * Quando são colocados à disposição do seu titular;
 * Quando é apurada a quantia.
 
-##Categoria F – Rendimentos Prediais
+## Categoria F – Rendimentos Prediais
 
 Nesta categoria são considerados todos os rendimentos provenientes de rendas de prédios urbanos, rústicos e mistos pagas ao sujeito passivo.
 
 Prédios urbanos são os habitáveis, os rústicos são os que servem para a componente agrícola e os mistos são os que englobam os dois tipos anteriores.
 
-##Categoria G – Incrementos Patrimoniais
+## Categoria G – Incrementos Patrimoniais
 
 As mais-valias, as indemnizações de danos não patrimoniais, importâncias de obrigações de não concorrência e acréscimos patrimoniais não justificados constituem incrementos patrimoniais, desde que não sejam considerados nas outras categorias.
 
 Os prémios de lotaria, concursos e rifas como o totoloto, o euromilhões e o bingo são também abrangidos nesta categoria.
 
-##Categoria H – Pensões
+## Categoria H – Pensões
 
 Como o próprio nome indica, neste anexo devem ser declarados os rendimentos provenientes de pensões. Nomeadamente:
 

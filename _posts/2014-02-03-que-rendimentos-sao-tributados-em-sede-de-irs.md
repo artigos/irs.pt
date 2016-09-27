@@ -3,11 +3,11 @@ layout: default
 title: Que rendimentos são tributados em sede de IRS
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##Já sabe que tem de entregar a declaração de IRS mas não sabe exatamente quais os rendimentos que serão tributados em sede de IRS? Então continue a ler este artigo porque é exatamente essa a questão que vou abordar.
+## Já sabe que tem de entregar a declaração de IRS mas não sabe exatamente quais os rendimentos que serão tributados em sede de IRS? Então continue a ler este artigo porque é exatamente essa a questão que vou abordar.
 
-##Que rendimentos são tributados em IRS?
+## Que rendimentos são tributados em IRS?
 
 Os rendimentos que estão sujeitos a tributação são:
 
@@ -24,7 +24,7 @@ Caso os sujeitos sejam não residentes, o IRS incide apenas sobre os rendimentos
 
 No caso do IRS ser de um agregado familiar, este incide no conjunto de rendimentos das pessoas que dele fazem parte.
 
-##Que rendimentos não se encontram sujeitos a IRS?
+## Que rendimentos não se encontram sujeitos a IRS?
 
 Como já vimos, o IRS incide sobre todos os rendimentos obtidos por sujeitos passivos residentes e não residentes desde que os rendimentos tenham sido obtidos em Portugal. No entanto, existem algumas exceções a essa regra. São elas:
 

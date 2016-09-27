@@ -3,11 +3,11 @@ layout: default
 title: Quem é considerado residente em território português?
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 O IRS é um imposto que incide sobre os rendimentos auferidos por pessoas singulares. Regra geral, todos os sujeitos passivos que residam em território português ou que tenham auferido os seus rendimentos neste país são obrigados a apresentar a declaração de IRS. Mas afinal, quem é considerado residente em território português? Se esta questão lhe interessa, então continue a ler este artigo.
 
-##Quem é considerado residente em território português?
+## Quem é considerado residente em território português?
 
 De acordo com o art. 16º do Código do IRS são considerados residentes em território português os sujeitos passivos que, no ano respeitante, tenham:
 
@@ -20,7 +20,7 @@ São ainda considerados residentes em território português os elementos que co
 
 Por último, são também considerados residentes em território nacional os sujeitos portugueses que alterem a sua residência fiscal para outro país com um regime fiscal mais favorável, no ano da mudança e nos quatro anos seguintes. Exceção feita aos contribuintes que o façam por razões atendíveis. Como por exemplo à guarda da sua entidade patronal (domiciliada em território português) por um espaço de tempo limitado.
 
-##Quem é considerado residente nas Regiões Autónomas?
+## Quem é considerado residente nas Regiões Autónomas?
 
 Segundo o art. 17º do Código do IRS são considerados residentes nas regiões autónomas os indivíduos que, no ano respeitante, tenham:
 

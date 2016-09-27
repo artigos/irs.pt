@@ -3,20 +3,20 @@ layout: default
 title: Como se preenche a declaração de IRS?
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Há quem prefira pagar a um contabilista ou a um TOC (Técnico Oficial de Contas) para lhe preencher e entregar a declaração de IRS. Ficando assim livre desta responsabilidade não correndo o risco de se enganar.
 
 No entanto, pelo menos nos casos mais simples, preencher uma declaração de IRS não é uma missão impossível. Por isso, neste artigo vou explicar-lhe o que deve fazer para preencher corretamente a sua declaração.
 
-##Documentos necessários
+## Documentos necessários
 
 * Cartão de cidadão ou cartão de contribuinte;
 * Declaração de rendimentos e retenções na fonte;
 * Fatura das despesas consideráveis com número de contribuinte;
 * Se for preencher a declaração através da Internet, precisa de estar registado (NIF+Senha).
 
-##Como preencher a declaração de IRS?
+## Como preencher a declaração de IRS?
 
 A declaração modelo 3 deve ser sempre acompanhada de um ou mais anexos, consoante a natureza dos seus rendimentos. Normalmente os anexos devem ser os de Categoria A, B ou H respeitantes a trabalho dependente, rendimentos empresariais e profissionais e rendimentos de pensões. Depois existem os anexos que podem ou não constar dos seus rendimentos como o E (rendimentos de capitais), F (rendimentos de prediais) e o G (incrementos patrimoniais).
 

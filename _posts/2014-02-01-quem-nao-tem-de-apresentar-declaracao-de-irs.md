@@ -3,13 +3,13 @@ layout: default
 title: Quem não tem de apresentar declaração de IRS
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##Apresentar a declaração de IRS é uma obrigação para muitos portugueses. No entanto, nem todas as pessoas têm de o fazer. Algumas estão dispensadas de apresentar a declaração modelo 3.
+## Apresentar a declaração de IRS é uma obrigação para muitos portugueses. No entanto, nem todas as pessoas têm de o fazer. Algumas estão dispensadas de apresentar a declaração modelo 3.
 
 Se está em dúvida sobre se tem ou não de apresentar declaração de IRS, então este é o artigo ideal para si.
 
-##O que é o IRS?
+## O que é o IRS?
 
 O IRS (Imposto sobre o Rendimento de Pessoas Singulares) é um imposto que tributa o valor anual de rendimentos. Esses rendimentos podem ser provenientes de:
 
@@ -20,7 +20,7 @@ O IRS (Imposto sobre o Rendimento de Pessoas Singulares) é um imposto que tribu
 * Incrementos Patrimoniais (mais-valias) – Categoria G;
 * Pensões – Categoria H.
 
-##Quem não tem de apresentar declaração de IRS?
+## Quem não tem de apresentar declaração de IRS?
 
 Nem todos os sujeitos passivos são obrigados a apresentar a declaração de IRS. Aqui fica uma pequena lista dos casos que não são contemplados. Ou seja, não tem de apresentar declaração de rendimentos os sujeitos passivos que no ano de 2013 tenham:
 

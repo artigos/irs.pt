@@ -3,7 +3,7 @@ layout: default
 title: Situação pessoal do sujeito passivo - Exemplos de situações
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 A situação familiar de um individuo passivo de IRS é um elemento muito importante no que diz respeito à determinação da incidência pessoal do IRS.
 
@@ -11,11 +11,11 @@ A situação familiar de um individuo passivo de IRS é um elemento muito import
 
 Assim sendo, neste artigo vou-lhe explicar os diferentes casos, recorrendo também a casos reais.
 
-##Contribuintes casados
+## Contribuintes casados
 
 No caso de existir efetivamente um agregado familiar, a declaração deve ser enviada em conjunto ou por um deles, caso o outro se encontre incapaz ou ausente.
 
-##Constituição do agregado familiar
+## Constituição do agregado familiar
 
 Assim sendo, devem proceder à entrega de uma única declaração de rendimentos, quem se encontre nas seguintes situações.
 
@@ -24,7 +24,7 @@ Assim sendo, devem proceder à entrega de uma única declaração de rendimentos
 * Pai ou mãe solteiro e respetivos dependentes;
 * Adptante solteiro e respetivos dependentes.
 
-##Quem é considerado dependente para efeitos de IRS?
+## Quem é considerado dependente para efeitos de IRS?
 
 * Filhos adotados e enteados menores de idade não emancipados;
 * Filhos biológicos, filhos adotados e enteados maiores de idade mas que tenham 25 anos ou menos. Desde que estejam a frequentar algum nível de ensino (médio ou superior), a cumprir serviço militar obrigatório, a cumprir serviço cívico ou que não aufiram rendimentos anuais superiores ao salário mínimo nacional:
@@ -34,11 +34,11 @@ Assim sendo, devem proceder à entrega de uma única declaração de rendimentos
 
 Deve também ter em atenção que a situação pessoal do sujeito passivo para efeitos de tributação é a verificada no último dia do ano a que o imposto diz respeito.
 
-##Casos reais
+## Casos reais
 
 Mais fácil do que falar na generalidade, é responder a casos reais que apresentam perguntas concretas.
 
-##“Como posso ter a certeza se os meus filhos continuam a ser considerados dependentes para efeitos de IRS?”
+## “Como posso ter a certeza se os meus filhos continuam a ser considerados dependentes para efeitos de IRS?”
 
 Existem três pontos que podem ajudar a esclarecer a sua situação. São eles:
 
@@ -48,17 +48,17 @@ Existem três pontos que podem ajudar a esclarecer a sua situação. São eles:
 
 Existe ainda uma pequena exceção a ter em conta. Caso o seu filho tenha menos de 25 anos, rendimentos inferiores ao salário mínimo nacional e não tenha conseguido entrar na universidade, excecionalmente pode ser considerado dependente do seu agregado familiar.
 
-##“Tenho 23 anos, sou estudante do ensino superior e fiz um trabalho pontual. Sou obrigada a fazer uma declaração individual ou posso contar como dependente na declaração de IRS dos meus pais?”
+## “Tenho 23 anos, sou estudante do ensino superior e fiz um trabalho pontual. Sou obrigada a fazer uma declaração individual ou posso contar como dependente na declaração de IRS dos meus pais?”
 
 Caso os rendimentos auferidos sejam inferiores ao salário mínimo nacional anual, pode enviar a declaração em conjunto com os seus pais.
 
-##“Encontro-me numa situação de separação de facto, posso apresentar declaração sozinha ou tenho de o fazer em conjunto?”
+## “Encontro-me numa situação de separação de facto, posso apresentar declaração sozinha ou tenho de o fazer em conjunto?”
 
 No caso de o divórcio ainda não ter ocorrido, pode enviar uma declaração individual sem problema. Deve apenas ter em atenção que, caso existam dependentes, eles podem apenas fazer parte de um agregado familiar.
 
 No entanto, embora separados, se for do vosso agrado, podem continuar a enviar a declaração em conjunto.
 
-##“Vivo em união de facto com a minha namorada. Existe a possibilidade de entregarmos a declaração de IRS em conjunto?”
+## “Vivo em união de facto com a minha namorada. Existe a possibilidade de entregarmos a declaração de IRS em conjunto?”
 
 Sim, é possível. Deve apenas ter em mente de que tem de ter elementos que provem que vivem em união de facto há mais de dois anos. Por exemplo, ter o mesmo domicílio fiscal.
 
